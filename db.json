@@ -1,14 +1,10 @@
-{
-  "posts": [
-    { "id": 1, "title": "Bambang 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "title": "DJ Happy New Years",
+    "url": "https://drive.google.com/uc?export=download&id=1y-Zvs52FKFMJqe59bepavpqKaWmkWaVK"
+  },
+  {
+    "title": "Happy New Years - 1",
+    "url": "https://drive.google.com/uc?export=download&id=1NZBjFfv0hPEdgI07YVgkhRESubB4Aez3"
   }
-}
+]
